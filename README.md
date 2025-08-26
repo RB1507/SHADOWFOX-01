@@ -1,7 +1,7 @@
 ## ✨ Highlights
 
   Modern & clean user interface
-  Responsive layouts (Desktop & Mobile versions)
+  Responsive layouts 
   Dark/Light theme toggle
   Sections for **About Me, Skills, Projects, and Contact**
   Focus on accessibility and user-friendly experience
